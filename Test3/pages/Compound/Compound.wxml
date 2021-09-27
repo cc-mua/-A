@@ -1,0 +1,19 @@
+<!--pages/Compound/Compound.wxml-->
+<view class="box">
+    <view class="title">复利模拟计算器</view>
+    <view class="lineLayout">
+        <view style="width: 150rpx;"> 本金金额 </view>
+        <input placeholder=' 10000 '  type='number' bindblur='principalNum'/>
+    </view>
+    <view class="lineLayout">
+        <view style="width: 150rpx;"> 利率数值 </view>
+        <input placeholder=' 0.03 '  type='number' bindblur='rateNum'/>
+    </view>
+    <view class="lineLayout">
+        <view style="width: 150rpx;"> 存款年数 </view>
+        <input style="flex:auto;" placeholder=' 5 '  type='number' bindblur='yearNum'/>
+    </view>
+    <view class="box">{{year}}年后可获得： {{sum}} 元 </view>
+    <button type="primary" bindtap="calc">求和</button>
+</view>
+

@@ -1,0 +1,20 @@
+/* pages/2.2/2.2.wxss */
+.textStyle01{
+    /* 文本样式01 */
+    color: red;
+    letter-spacing: 10px;
+    vertical-align: left;
+    text-indent: 50px;
+    text-decoration: underline;
+    text-decoration-color: #0000ff;
+    line-height: 30px;
+    white-space: normal;
+}
+
+.textStyle02{
+    /* 文本样式 */
+    text-align: justify;
+    word-spacing: 20px;
+    text-transform: uppercase;
+    white-space: pre-wrap;
+}

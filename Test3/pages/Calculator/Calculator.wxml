@@ -1,0 +1,12 @@
+<!--pages/Calculator/Calculator.wxml-->
+<view class="box">
+    <view class="title">个人所得税计算器</view>
+    <input placeholder="请输入每月应发工资" placeholder-class="placeholder" bindinput="salaryInput"/>
+    <input placeholder="请输入税前扣除数额" placeholder-class="placeholder" bindinput="deducktInput"/>
+    <button bindtap="mySubmit">提交</button>
+    <view hidden="{{flag}}" class="content">
+        <view class="content-item">每月应发工资{{Salary}}</view>
+        <view class="content-item">税前扣除{{Deduckt}}</view>
+        <view class="content-item">应交个人所得税{{Tax}}</view>
+    </view>
+</view>

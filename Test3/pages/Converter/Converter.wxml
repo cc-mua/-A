@@ -1,0 +1,13 @@
+<!--pages/Converter/Converter.wxml-->
+<view class="box">
+    <view class="title">公制与英制单位转换器</view>
+    <view>
+        <input placeholder="请输入英寸" type="digit" bindblur="InchConverter"/>
+    </view>
+    <view class="box">结果为:{{resultCM}} </view>
+
+    <view>
+        <input placeholder="请输入厘米" type="digit" bindblur="CMConverter"/>
+    </view>
+    <view class="box">结果为:{{resultInch}} </view>
+</view>

@@ -1,0 +1,13 @@
+<!--pages/2.2/2.2.wxml-->
+<view class='box'>
+    <view class="title">文本样式设置</view>
+    <view class="textStyle01">
+        文本属性可以定义文本的外观。通过设置文本属性，您可以改变文本的颜色、字符间距，对其文本，装饰文本，对文本进行缩进，等等。
+    </view>
+    =========================
+    <view class="textStyle02">
+    North  China Unniversity of Technnology(NCUP) is located in the western part of Beijing, which is a municipal Unniversity founded in 1946.
+    </view>
+    =========================
+    <view  class="title">电科19-2-39张迁</view>
+</view>

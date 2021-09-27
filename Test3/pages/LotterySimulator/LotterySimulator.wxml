@@ -1,0 +1,8 @@
+<!--pages/LotterySimulator/LotterySimulator.wxml-->
+<view class="box">
+    <view class="title">7注 彩票模拟器</view>
+    <view>中奖号码为： </view>
+    <view wx:for="{{rand}}">{{item}}</view>
+    <text>\n</text>
+    <button type="primary" bindtap="newRand"> 产生新的中奖序列 </button>
+</view>

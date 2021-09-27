@@ -1,0 +1,35 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/firstPage/firstPage",
+    "pages/LotterySimulator/LotterySimulator",
+    "pages/Compound/Compound",
+    "pages/2.14/2.14",
+    "pages/2.13/2.13",
+    "pages/2.12/2.12",
+    "pages/2.11/2.11",
+    "pages/Calculator/Calculator",
+    "pages/2.9/2.9",
+    "pages/Converter/Converter",
+    "pages/2.8/2.8",
+    "pages/2.7/2.7",
+    "pages/2.5/2.5",
+    "pages/2.4/2.4",
+    "pages/2.3/2.3",
+    "pages/2.2/2.2",
+    "pages/2.1/2.1",
+    "pages/logs/logs"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#f58f98",
+    "navigationBarTitleText": "我的微信小程序",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#fab27b"
+
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

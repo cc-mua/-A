@@ -1,0 +1,10 @@
+<!--pages/2.11/2.11.wxml-->
+<view class="box">
+    <view class="title">循环求和计算器</view>
+    <view>
+        <input placeholder=' 请输入起点数值 '  type='number' bindblur='startNum'/>
+        <input placeholder=' 请输入终点数值 '  type='number' bindblur='endNum'/>
+    </view>
+    <view class="box">两个数之间的和为： {{sum}} </view>
+    <button type="primary" bindtap="calc">求和</button>
+</view>

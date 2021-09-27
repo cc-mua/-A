@@ -1,0 +1,136 @@
+<!--index.wxml-->
+<navigator url="/pages/2.1/2.1">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.1</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.2/2.2">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.2</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.3/2.3">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.3</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.4/2.4">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.4</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.5/2.5">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.5</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/firstPage/firstPage">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.6</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.7/2.7">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.7</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.8/2.8">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.8</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/Converter/Converter">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">Converter</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.9/2.9">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.9</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/Calculator/Calculator">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">Calculator</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.11/2.11">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.11 循环求和计算器</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/Compound/Compound">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.11.2 复利模拟计算器</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.12/2.12">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.12 随机数求和</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/LotterySimulator/LotterySimulator">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.12.2 彩票模拟器</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.13/2.13">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.13 计时器</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>
+
+<navigator url="/pages/2.14/2.14">
+  <view class="waikuang">
+    <icon type="info" class="myleft" color="pink"></icon>
+    <view class="mycenter">2.14 自动随机变化三色旗</view>
+    <image src="/pages/img/right.png" class="myright"></image>
+  </view>
+</navigator>

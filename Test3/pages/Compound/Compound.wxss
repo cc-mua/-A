@@ -1,0 +1,17 @@
+/* pages/Compound/Compound.wxss */
+input{
+    border-bottom: 1px solid gold;
+    margin: 10rpx 0;
+    height: 30px;
+}
+
+button{
+    margin-top: 20px;
+}
+
+.lineLayout{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
